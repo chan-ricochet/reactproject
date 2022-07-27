@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1deb0b0.css",
-    "main.js": "/static/js/main.46c61f71.js",
-    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/covid.png": "/static/media/covid.ef96fbd0a2de9ecd88f8.png",
-    "static/media/Doctors-1.jpg": "/static/media/Doctors-1.1e1fb1fed9e0f8cc8460.jpg",
-    "static/media/tests.jpg": "/static/media/tests.53a3a018b5d815ff62a5.jpg",
-    "static/media/covid.webp": "/static/media/covid.5c6e02e3d2edd5f7fc44.webp",
-    "static/media/doc1jpg.jpg": "/static/media/doc1jpg.922df76252d5d58ae52f.jpg",
-    "static/media/blur-hospital.webp": "/static/media/blur-hospital.ddc1b9c4aa186899183c.webp",
-    "static/media/doctorbg3.jpg": "/static/media/doctorbg3.828b602930172699dfd6.jpg",
-    "static/media/doc3.png": "/static/media/doc3.b08182f521bce4f71605.png",
-    "static/media/onlinedoctor.cms": "/static/media/onlinedoctor.e02afc22b6efa3330f0b.cms",
-    "static/media/online-doctor-consultation.jpeg": "/static/media/online-doctor-consultation.25f578f3eb5718e1a447.jpeg",
-    "static/media/doc-logo.jpg": "/static/media/doc-logo.a54d6753341852aa5def.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.a1deb0b0.css.map": "/static/css/main.a1deb0b0.css.map",
-    "main.46c61f71.js.map": "/static/js/main.46c61f71.js.map",
-    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/reactproject/static/css/main.31be291b.css",
+    "main.js": "/reactproject/static/js/main.fc1395e3.js",
+    "static/js/787.71e672d5.chunk.js": "/reactproject/static/js/787.71e672d5.chunk.js",
+    "static/media/covid.png": "/reactproject/static/media/covid.ef96fbd0a2de9ecd88f8.png",
+    "static/media/Doctors-1.jpg": "/reactproject/static/media/Doctors-1.1e1fb1fed9e0f8cc8460.jpg",
+    "static/media/tests.jpg": "/reactproject/static/media/tests.53a3a018b5d815ff62a5.jpg",
+    "static/media/covid.webp": "/reactproject/static/media/covid.5c6e02e3d2edd5f7fc44.webp",
+    "static/media/doc1jpg.jpg": "/reactproject/static/media/doc1jpg.922df76252d5d58ae52f.jpg",
+    "static/media/blur-hospital.webp": "/reactproject/static/media/blur-hospital.ddc1b9c4aa186899183c.webp",
+    "static/media/doctorbg3.jpg": "/reactproject/static/media/doctorbg3.828b602930172699dfd6.jpg",
+    "static/media/doc3.png": "/reactproject/static/media/doc3.b08182f521bce4f71605.png",
+    "static/media/onlinedoctor.cms": "/reactproject/static/media/onlinedoctor.e02afc22b6efa3330f0b.cms",
+    "static/media/online-doctor-consultation.jpeg": "/reactproject/static/media/online-doctor-consultation.25f578f3eb5718e1a447.jpeg",
+    "static/media/doc-logo.jpg": "/reactproject/static/media/doc-logo.a54d6753341852aa5def.jpg",
+    "static/media/logo.svg": "/reactproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactproject/index.html",
+    "main.31be291b.css.map": "/reactproject/static/css/main.31be291b.css.map",
+    "main.fc1395e3.js.map": "/reactproject/static/js/main.fc1395e3.js.map",
+    "787.71e672d5.chunk.js.map": "/reactproject/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1deb0b0.css",
-    "static/js/main.46c61f71.js"
+    "static/css/main.31be291b.css",
+    "static/js/main.fc1395e3.js"
   ]
 }
